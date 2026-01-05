@@ -1,5 +1,5 @@
 {
-    "name": "erusev/parsedown-extra",
+    "name": "parsedown/parsedown-extra",
     "description": "An extension of Parsedown that adds support for Markdown Extra.",
     "keywords": ["markdown", "markdown extra", "parser", "parsedown"],
     "homepage": "https://github.com/erusev/parsedown-extra",
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "erusev/parsedown": "dev-master",
+        "parsedown/parsedown": "dev-master",
         "ext-dom": "*",
         "ext-libxml": "*",
         "ext-mbstring": "*",
